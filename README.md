@@ -1,16 +1,23 @@
-## Hi there 👋
+# Salut 👋 Je suis Kawtar
 
-<!--
-**kawtarbh-dev/kawtarbh-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiante en Physique à la Faculté des Sciences Ben M'Sik  
+💻 Intéressée par la programmation et l'innovation  
+🔬 Passionnée par la science, curieuse et motivée
 
-Here are some ideas to get you started:
+## 🌱 Actuellement / Certifications
+- Python (certifié) 🐍
+- Machine Learning (certifié) 🤖
+- Développement Web en apprentissage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 Collaboration
+- Ouverte aux projets étudiants et open-source
+
+## 📫 Contact
+- Email: kawtarbouhdidi@gmail.com
+- LinkedIn: https://www.linkedin.com/in/kawtar-bouhdidi-782813387
+
+## ⚡ Fun fact
+- J'adore résoudre des problèmes complexes et apprendre de nouvelles technologies
+
+
+
