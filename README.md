@@ -13,7 +13,6 @@
 - Ouverte aux projets étudiants et open-source
 
 ## 📫 Contact
-- Email: kawtarbouhdidi@gmail.com
 - LinkedIn: https://www.linkedin.com/in/kawtar-bouhdidi-782813387
 
 ## ⚡ Fun fact
