@@ -18,7 +18,3 @@
 
 ## ⚡ Fun fact
 - J'adore résoudre des problèmes complexes et apprendre de nouvelles technologies
-
-
-
-https://github.com/unicovoit/unicovoit.git
