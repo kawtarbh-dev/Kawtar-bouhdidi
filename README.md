@@ -17,7 +17,7 @@
 
 ## ⚡ Fun fact
 - J'adore résoudre des problèmes complexes et apprendre de nouvelles technologies
-- 
+  
 # 🧾 Personal Expense Tracker
 A simple Python mini-project to manage personal expenses.  
 Features:
@@ -27,4 +27,4 @@ Features:
 
 Created with using Python.
 
-- 
+
