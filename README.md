@@ -17,3 +17,14 @@
 
 ## ⚡ Fun fact
 - J'adore résoudre des problèmes complexes et apprendre de nouvelles technologies
+- 
+# 🧾 Personal Expense Tracker
+A simple Python mini-project to manage personal expenses.  
+Features:
+- Add new expenses  
+- View all expenses  
+- Calculate total spending  
+
+Created with using Python.
+
+- 
