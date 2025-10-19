@@ -1,4 +1,5 @@
-# Salut 👋 Je suis Kawtar
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e7,100:fff5fa&height=200&section=header&text=Kawtar%20Bouhdidi&fontSize=45&fontColor=aa336a&animation=twinkle)
+Je suis Kawtar
 
 🎓 Étudiante en Physique à la Faculté des Sciences Ben M'Sik  
 💻 Intéressée par la programmation et l'innovation  
