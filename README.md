@@ -7,9 +7,8 @@ Salut,👋🏽 je suis Kawtar bouhdidi
 🔬 Passionnée par la science, curieuse et motivée
 
 ## 🌱 Actuellement / Certifications
-- Python (certifié) 🐍
+- Python for Analysis (certifié) 🐍
 - Machine Learning (certifié) 🤖
-- Développement Web en apprentissage
 
 ## 👯 Collaboration
 - Ouverte aux projets étudiants et open-source
